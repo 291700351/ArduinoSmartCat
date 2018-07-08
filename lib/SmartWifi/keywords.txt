@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For SmartWifi
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SmartWifi   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init                KEYWORD2
+attemptConnect      KEYWORD2
+smartConfig         KEYWORD2
+loop                KEYWORD2
+status              KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
